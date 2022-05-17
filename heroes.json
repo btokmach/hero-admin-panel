@@ -1,0 +1,55 @@
+{
+  "heroes": [
+    {
+      "id": "28823a41-775c-4290-a4c4-d5ca7fe47be9",
+      "name": "John",
+      "description": "Fireball",
+      "element": "fire"
+    },
+    {
+      "id": "aefb247d-1705-49ae-835c-f9518be2bda1",
+      "name": "Vi",
+      "description": "Earth style",
+      "element": "earth"
+    },
+    {
+      "id": "cb856358-9a26-4f05-9808-50402990d235",
+      "name": "Random Char",
+      "description": "Water Style",
+      "element": "water"
+    },
+    {
+      "id": "420d48d0-d476-4641-b3c1-74c6f388671a",
+      "name": "Aang",
+      "description": "Wind style",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Всі",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Вогонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Вітер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
