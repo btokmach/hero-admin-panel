@@ -1,12 +1,6 @@
 {
   "heroes": [
     {
-      "id": "28823a41-775c-4290-a4c4-d5ca7fe47be9",
-      "name": "John",
-      "description": "Fireball",
-      "element": "fire"
-    },
-    {
       "id": "aefb247d-1705-49ae-835c-f9518be2bda1",
       "name": "Vi",
       "description": "Earth style",
@@ -23,6 +17,12 @@
       "name": "Aang",
       "description": "Wind style",
       "element": "wind"
+    },
+    {
+      "id": "4cb083df-917a-46d0-acd4-c106b4b617be",
+      "name": "Soku",
+      "description": "Fire style",
+      "element": "fire"
     }
   ],
   "filters": [
